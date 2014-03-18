@@ -1,5 +1,8 @@
 This is a small Core Midi Wrapper for iOS.
 
+It uses PGMidi from Pete Goodliffe.
+https://github.com/petegoodliffe/PGMidi
+
 ###Licensing
 
 I'm just extending the Licence Information from PGMidi.
